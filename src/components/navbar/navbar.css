@@ -16,7 +16,8 @@
 }
 
 .logo {
-  font-weight: 500;
+  font-weight: bold;
+  font-size: x-large;
 }
 
 .navButton {
